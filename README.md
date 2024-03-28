@@ -2,8 +2,6 @@
 
 Welcome to my GitHub portfolio profile! I'm Michael Ayala, a passionate Splunk Specialist, proficient in both administration and development based in Mississauga, Canada.
 
-![michaelsayala's Stats](https://github-readme-stats.vercel.app/api?username=michaelsayala&theme=dark&show_icons=true&hide_border=false&count_private=true)
-
 ### 🎓 Current Endeavors <br>
 YouTube Tutorials for Splunk
 I'm currently creating educational content on Splunk through YouTube tutorials. These videos cover various topics, from basic concepts to advanced techniques, aimed at helping both beginners and experienced users get the most out of Splunk.
