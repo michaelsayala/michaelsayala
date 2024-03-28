@@ -14,6 +14,14 @@ I'm always open to new opportunities, collaborations, and discussions. Feel free
 
 Thanks for visiting my GitHub portfolio profile!
 
+## YouTube Channel
+
+We have a YouTube channel where we share tutorials, demos, and updates related to this project. Check it out:
+
+[![YouTube Channel](https://img.shields.io/badge/Subscribe-YouTube-red)](https://www.youtube.com/channel/your-channel-id)
+
+Feel free to subscribe to stay updated with our latest videos!
+
 <!--
 **michaelsayala/michaelsayala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
