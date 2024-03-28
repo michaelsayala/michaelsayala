@@ -20,6 +20,8 @@ We have a YouTube channel where we share tutorials, demos, and updates related t
 
 [![YouTube Channel](https://img.shields.io/badge/Subscribe-YouTube-red)](https://www.youtube.com/channel/your-channel-id)
 
+https://youtu.be/rbz0AdL2NRo?si=omhWybqvwtI1W2iH
+
 Feel free to subscribe to stay updated with our latest videos!
 
 <!--
