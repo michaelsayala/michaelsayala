@@ -14,7 +14,8 @@ I'm always open to new opportunities, collaborations, and discussions. Feel free
 
 Thanks for visiting my GitHub portfolio profile!
 
-## latest Youtube Videos
+## Latest Youtube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
+
 <!-- END YOUTUBE-CARDS -->
